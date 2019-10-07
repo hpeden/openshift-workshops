@@ -3,3 +3,9 @@ workshop-dir: www-default
 git-host-default: https://github.com/dudash
 git-host-offline: http://openshift.example.com:3000/demo
 exclude: [README.md, package.json, grunt.js, Gruntfile.js, Gruntfile.coffee, node_modules, LABS-MASTERLIST.md]
+
+title: Openshift Workshops
+description: Don't just read about what OpenShift 3 can do - try it for yourself with these workshops
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-cayman
